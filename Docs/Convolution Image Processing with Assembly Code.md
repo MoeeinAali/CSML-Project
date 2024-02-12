@@ -23,6 +23,10 @@ This repository demonstrates image processing using convolution in assembly lang
 
 ![dst1](https://github.com/MoeeinAali/CSML-Project/blob/main/%D9%BE%D8%B1%D8%AF%D8%A7%D8%B2%D8%B4%20%D8%AA%D8%B5%D9%88%DB%8C%D8%B1/testing/dstimg/4.jpg?raw=true)
 
+5. Convolution with Kernel 5
+
+![dst1](https://github.com/MoeeinAali/CSML-Project/blob/main/%D9%BE%D8%B1%D8%AF%D8%A7%D8%B2%D8%B4%20%D8%AA%D8%B5%D9%88%DB%8C%D8%B1/testing/dstimg/5.jpg?raw=true)
+
 ## Convolution Kernels Used
 
 
