@@ -1,0 +1,2 @@
+nasm -felf64 src/conv_simd.S -o conv_simd.o
+gcc -no-pie -fno-pie src/main.c conv_simd.o -o exec
