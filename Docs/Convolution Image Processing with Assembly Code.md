@@ -8,7 +8,7 @@ This repository demonstrates image processing using convolution in assembly lang
 ## Processed Images
 
 1. Convolution with Kernel 1
-   ![Convolution with Kernel 1](images/processed_image_1.jpg)
+   ![Convolution with Kernel 1]([images/processed_image_1.jpg](https://github.com/MoeeinAali/CSML-Project/blob/main/%D9%BE%D8%B1%D8%AF%D8%A7%D8%B2%D8%B4%20%D8%AA%D8%B5%D9%88%DB%8C%D8%B1/testing/dstimg/1.jpg?raw=true))
 
 2. Convolution with Kernel 2
    ![Convolution with Kernel 2](images/processed_image_2.jpg)
